@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### Personal Information
+#### Address: BeiJing, China
+#### Phone: +86 15892202016
+#### Email: zhaoxuemei1996@foxmail.com
+2018-pres   M.A., Quality of agricultural products and food safety
+            Institute of Food and Nutrition Department，Chinese Academy of Agricultural Sciences
+            BeiJing, China
+2014-2018   B.A., Food Quality and Safety 
+            Department of Biological Engineering，Sichuan University of Science & Engineering
+            SiCuan, China
+### Area of Interests
+My research interests are nutrition though at the stage of M.A. and B.A. i primarily studied in food safety and quality of agricultural products and food safety. Currently, I mainly focus on how to evaluate the nutritional quality of agricultural products and according to different qualities of agricultural products （in my studying area，the agricultural products are plants oil，meat and nuts）to establish a model of evaluation, The function of this model is to evaluate the fatty acid quality of three products，as i mentioned before，and according to the final score to judge which agricultural product has more nutritional value. Like Amino Acid Score (AAS) which can get a final score to evaluate which types of food have more abundant amino acid and more suitable with human. This model I established can provides a effective suggestion ahout how to pick up those foods which have higher factty acid value. Simultaneously, the area of nutrition is attractive me as well. I really prefer to acquire more knowledge about this filed.
 
-You can use the [editor on GitHub](https://github.com/zhaoluochen-gege/zhaoluochen1996-163.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaoluochen-gege/zhaoluochen1996-163.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+precision nutrition
+fatty acids
+nutritional evaluation
+### Publications
+1. Xuemei Zhao, Xia Xiang, Jiazhang Huang1 Yunqian Ma, Junmao Sun, Dazhou Zhu. Studying the Evaluation Model of the Nutritional Quality of Edible Vegetable Oil Based on Dietary Nutrient Reference Intake. (submitted to British Journal of Nutrition (under review)).
+2. XueMei Zhao, XiaoHong Wang, KeHong Liang, Hong Zhu, YaoYao Wang, DaZhou Zhu. Research progress of risk benefit assessment model in food nutrition and safety assessment. Journal of Chinese Institute of Food Science and Technology. June, 2019.
+3. YaoYao Wang, Fan Wu, GenJun Ye, KeHong Liang, XueMei Zhao, SuQin Yi, XiaoHong Wang, DaZhou Zhu. Effect of Heating on Fatty Acid Content in ω-3 Eggs. Journal of Food Science and Technology. September, 2020.
+4. YaoYao Wang, KeHong Liang, Peng Liu, Ju Qiu, XueMei Zhao, DaZhou Zhu, Research status of egg sterilization technology and equipment. Food Science and Technology. January, 2019.
+### Honors and Awards
+October, 2020     First-class scholarship，Chinese Academy of Agricaltural Sciences(＄1352, 00)
+October, 2020     Excellent Student Leader, Chinese Academy of Agricaltural Sciences(＄150, 00)
+October. 2019     First-class scholarship，Chinese Academy of Agricaltural Sciences(＄1352, 00)
+October, 2019     Excellent Student Leader, Chinese Academy of Agricaltural Sciences(＄150, 00)
+September, 2018   Second-class scholarship. Chinese Academy of Agricaltural Sciences(＄1202, 00)
